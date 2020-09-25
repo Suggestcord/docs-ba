@@ -3,4 +3,4 @@
 * Jezici
  * [:us: English](https://suggestcord.js.org/#/)
  * [:ba: Bosanski](https://suggestcord.js.org/#/ba/)
- * [:globe_with_meridians: Prijevodi](ba/translation.md)
+ * [:globe_with_meridians: Prijevodi](translate.md)
