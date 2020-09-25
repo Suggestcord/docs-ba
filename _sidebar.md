@@ -1,37 +1,37 @@
-[Suggestcord Dokumentacija](home.md)
-[Vodič za početak](getting-started.md)
+[Suggestcord Dokumentacija](/ba/home.md)
+[Vodič za početak](/ba/getting-started.md)
 
 ---
 
 **RAZNOVRSNE KOMANDE**
-[Help](miscellaneous/help.md)
-[Discord](miscellaneous/discord.md)
-[Info](miscellaneous/info.md)
-[Invite](miscellaneous/invite.md)
-[Ping](miscellaneous/ping.md)
+[Help](/ba/miscellaneous/help.md)
+[Discord](/ba/miscellaneous/discord.md)
+[Info](/ba/miscellaneous/info.md)
+[Invite](/ba/miscellaneous/invite.md)
+[Ping](/ba/miscellaneous/ping.md)
 
 ---
 
 **SUGESTIJSKE KOMANDE**
-[Suggest](suggestions/suggest.md)
-[Approve](suggestions/approve.md)
-[Reject](suggestions/reject.md)
-[Consider](suggestions/consider.md)
-[Blacklist](suggestions/blacklist.md)
+[Suggest](/ba/suggestions/suggest.md)
+[Approve](/ba/suggestions/approve.md)
+[Reject](/ba/suggestions/reject.md)
+[Consider](/ba/suggestions/consider.md)
+[Blacklist](/ba/suggestions/blacklist.md)
 
 ---
 
 **ADMINISTRACIJSKE KOMANDE**
-[Setup](administration/setup.md)
-[ViewSettings](administration/viewsettings.md)
-[Prefix](administration/prefix.md)
-[SuggestionsChannel](administration/suggestionschannel.md)
-[SuggestionsManager](administration/suggestionsmanager.md)
-[SuggestionLogs](administration/suggestionlogs.md)
-[AllowSuggesterVote](administration/allowsuggestervote.md)
-[AnonymousBlacklist](administration/anonymousblacklist.md)
+[Setup](/ba/administration/setup.md)
+[ViewSettings](/ba/administration/viewsettings.md)
+[Prefix](/ba/administration/prefix.md)
+[SuggestionsChannel](/ba/administration/suggestionschannel.md)
+[SuggestionsManager](/ba/administration/suggestionsmanager.md)
+[SuggestionLogs](/ba/administration/suggestionlogs.md)
+[AllowSuggesterVote](/ba/administration/allowsuggestervote.md)
+[AnonymousBlacklist](/ba/administration/anonymousblacklist.md)
 
 ---
 
 **DODATNE INFORMACIJE**
-[Prevoditeljski Program](translate.md)
+[Prevoditeljski Program](/ba/translate.md)
